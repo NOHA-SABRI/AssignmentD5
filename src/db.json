@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aya",
+      "age": 20,
+      "phone": "0129888998"
+    },
+    {
+      "id": 2,
+      "name": "Noha",
+      "age": 24,
+      "phone": "0112648789"
+    },
+    {
+      "id": 3,
+      "name": "Reham",
+      "age": 19,
+      "phone": "0112648789"
+    },
+    {
+      "id": 4,
+      "name": "Ahmed",
+      "age": 35,
+      "phone": "0159890776"
+    },
+    {
+      "id": 5,
+      "name": "Ali",
+      "age": 40,
+      "phone": "0159890776"
+    },
+    {
+      "id": 6,
+      "name": "Mohamed",
+      "age": 26,
+      "phone": "0159890776"
+    }
+  ]
+}
